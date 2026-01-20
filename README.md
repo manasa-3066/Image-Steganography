@@ -48,17 +48,18 @@ and later retrieve it securely.
 ```bash
 py -3.10 tkinter_app/tkinter_app.py
 
-🌐 Streamlit Application
+---
+### 🌐 Streamlit Application
 
 Web-based UI
 
 Visual pipeline with image previews
 
 Automatic speech output in browser
-
+```bash
 ▶️ Run Streamlit App
 py -3.10 -m streamlit run streamlit_app/app.py
-
+---
 📦 Requirements
 
 Install dependencies using:
